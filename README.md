@@ -1,3 +1,5 @@
+## Heterogeneous Dataset Sampling
+
 Sampling methodology described in [1].
 
 See 'sample_example.ipynb' for an example of usage.
